@@ -91,13 +91,11 @@ Daily News Summary
 
 ### Workflow Overview
 
-screenshots/workflow-overview.png
-
----
+<img src="screenshots/workflow-overview.png" alt="Workflow Overview" width="900"/>
 
 ### Email Output
 
-screenshots/email-output.png
+<img src="screenshots/email-output.png" alt="Email Output" width="700"/>
 
 ---
 
