@@ -12,6 +12,12 @@ Instead of manually visiting multiple websites every day, the workflow fetches a
 
 ---
 
+## Problem Statement
+
+Keeping up with AI and technology news often requires visiting multiple websites and filtering large amounts of information manually.
+
+This project automates that process by collecting news from RSS feeds, summarizing the most relevant updates using AI, and delivering a structured newsletter to email every day at 10:00 AM.
+
 ## Architecture
 
 ```text
