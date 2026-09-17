@@ -15,7 +15,7 @@ Instead of manually visiting multiple websites every day, the workflow fetches a
 ## Architecture
 
 ```text
-Schedule Trigger
+Daily Schedule Trigger (10:00 AM)
         ↓
 AI News RSS Feed
         ↓
@@ -36,6 +36,7 @@ Daily News Summary
 
 ## Key Features
 
+- Automated execution every day at 10:00 AM
 - Automated news collection from RSS feeds
 - Multiple news source integration
 - AI-powered news summarization
@@ -67,7 +68,7 @@ Daily News Summary
 
 ## How It Works
 
-1. Schedule Trigger starts the workflow daily.
+1. Schedule Trigger automatically starts the workflow every day at 10:00 AM.
 2. RSS feeds fetch AI and technology news.
 3. News articles are merged into a single stream.
 4. Content is aggregated.
@@ -78,6 +79,7 @@ Daily News Summary
 
 ## Engineering Highlights
 
+- Designed a scheduled daily automation workflow that runs at 10:00 AM
 - Implemented scheduled workflow automation
 - Integrated multiple RSS data sources
 - Used AI for content summarization
