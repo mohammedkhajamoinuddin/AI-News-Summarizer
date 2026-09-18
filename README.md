@@ -170,7 +170,7 @@ Relevant AI conferences, summits, meetups, and technology events discovered thro
 ### Workflow Overview
 
 
-<img src="screenshots/workflow-overview.png" alt="Workflow Overview" width="900"/>
+<img src="screenshots/workflow-overview_v2.png" alt="Workflow Overview" width="900"/>
 
 
 ### Email Output
